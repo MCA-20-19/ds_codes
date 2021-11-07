@@ -10,7 +10,7 @@ int add_recursive(int n){
     }
 int main(){
     int n;
-    printf("enter the nuber upto which you want the sum\n");
+    printf("enter the number upto which you want the sum\n");
     scanf("%d",&n);
     int total=add_recursive(n);
     printf("sum of all the numbers upto <%d> is --->[%d]",n,total);

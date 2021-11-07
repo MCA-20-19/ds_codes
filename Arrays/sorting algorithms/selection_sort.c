@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include"print_array.h"
-#include"find_min.h"
+#include"..\print_array.h"
+#include"..\find_min.h"
 void selection_sort(int *ptr,int size){
     
     for(int i=0;i<size-1;i++){
