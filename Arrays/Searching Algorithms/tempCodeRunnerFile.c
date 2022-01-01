@@ -1,2 +1,0 @@
-
-    if(ptr[left]==x)
